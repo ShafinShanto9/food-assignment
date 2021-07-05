@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  font-family: "Poppins", sans-serif;
+}
+h1 {
+  font-size: 50px;
+}
+.food-header {
+  display: flex;
+  margin: 3%;
+}
+.content-area {
+  width: 45%;
+  padding: 3%;
+}
+
+.content-area {
+  width: 90%;
+}
+#text-area {
+  margin-top: 70px;
+  line-height: 35px;
+}
+.oreder-contact-btn {
+  padding: 20px 45px;
+  text-decoration: none;
+  background-image: linear-gradient(tomato, orange);
+  color: white;
+  border-radius: 30px;
+}
+#header-area-p {
+  margin-bottom: 60px;
+  font-weight: 400;
+  color: gray;
+}
+.spesific-text-color {
+  color: tomato;
+}

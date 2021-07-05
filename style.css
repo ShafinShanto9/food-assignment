@@ -79,3 +79,25 @@ h1 {
   font-size: 15px;
   font-weight: 200;
 }
+.counter {
+  display: flex;
+  margin: 50px;
+  box-shadow: 3px 3px 10px gray;
+  border-radius: 10px;
+}
+.counter-position {
+  width: 30%;
+  padding: 10px;
+  margin-left: 10px;
+  display: block;
+}
+.counter-position h3 {
+  font-size: 35px;
+  font-weight: bold;
+  text-align: center;
+}
+.counter-position p {
+  font-size: 15px;
+  font-weight: 300;
+  text-align: center;
+}
